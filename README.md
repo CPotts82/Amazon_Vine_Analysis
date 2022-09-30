@@ -10,6 +10,10 @@ The dataset analyzed was over book reviews and initially contained over 10 milli
 
 The initial question asked specifically about "bias for favorable reviews from Vine Members" so the data was filtered down further and a deeper analysis was done on only the 5-Star rating reviews. This consisted of 51,998 5-Star product reviews.  A comparison was done on the 5-Star ratings from Vine members versus Non-Vine members as well.
 
+![Filtered_data](https://user-images.githubusercontent.com/106348899/193361443-687f66f6-ab51-403c-a939-98bc6103093d.png)
+![Filtered_data2](https://user-images.githubusercontent.com/106348899/193361566-9459b3db-bf34-4500-80a3-c2400c369909.png)
+
+
 ## Resources
 
 Amazon Web Services - RDS, pgAdmin, Google Colaboratory, PySpark, SQL     
