@@ -20,12 +20,19 @@ product data - "https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_u
 
 ### Vine Reviews (Paid Reviews)
 - Total Number of Vine Reviews - 5,012
+
+![Vines](https://user-images.githubusercontent.com/106348899/193360693-3218928d-7244-4f1a-bf0d-e8f65349c77a.png)
+
 - Number of 5-Star Vine Reviews - 2,031
 - Percentage of 5-Star Vine Reviews - 3.9%
 - Percentage of 5-Star Vine Reviews out of Total Vine Reviews - 40.5%
 
 ### Non-Vine Reviews (Unpaid Reviews)
 - Total Number of Non-Vine Reviews - 109,297
+
+![Non-Vines](https://user-images.githubusercontent.com/106348899/193360866-d72f2391-0f36-43dd-b65c-316a6e463c4f.png)
+
+
 - Number of 5-Star Non-Vine Reviews - 49,967
 - Percentage of 5-Star Non-Vine Reviews - 96.1%
 - Percentage of 5-Star Non-Vine Reviews out of Total Non-Vine Reviews - 45.7%
