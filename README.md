@@ -7,7 +7,7 @@ The dataset analyzed was over book reviews and initially contained over 10 milli
 
 ## Resources
 
-Amazon Web Services - RDS, pgAdmin, Google Colaboratory, PySpark, SQL /n
+Amazon Web Services - RDS, pgAdmin, Google Colaboratory, PySpark, SQL \n
 product data - "https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_00.tsv.gz"
 
 ## Results
