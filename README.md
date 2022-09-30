@@ -37,7 +37,7 @@ product data - "https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_u
 - Percentage of 5-Star Non-Vine Reviews out of Total Non-Vine Reviews - 45.7%
 
 ## Summary
-The results of this analysis show that Amazon Vine Members do not show bias in favorable reviews. Out of all of the 5-Star reviews studied (51,998), only 3.9% of those reviews were from Vine Members. This particular dataset did not have many Vine Member reviews to begin with so the percentage of 5-Star Vine Member Reviews to Total Vine Member reviews was calculated. 
+The results of this analysis show that Amazon Vine Members do not show bias in favorable reviews. Out of all of the 5-Star reviews studied (51,998), only 3.9% of those reviews were from Vine Members. This particular dataset did not have many Vine Member reviews to begin with so the percentage of 5-Star Vine Member Reviews to Total Vine Member reviews was calculated. Out of all the Vine reviews for this dataset, only 40.5% were 5-Star Reviews. Just with this insight, companies may want to question if the Vine Program is truly worth the costs.  Of all the 5-Star reviews analyzed, 96.1% were from Non-Vine reviews. Comparing 5-Star Non-Vine reviews to Total Non-Vine reviews from this dataset, 45.7% were 5-Star reviews. 
 
 
 
