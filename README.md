@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ## Overview
-The Amazon Vine Program gives free products to members in exchange for them writing a review about the gifted product. The purpose of this analysis was to examine Amazon product reviews in order to determine if there is a bias for more favorable reviews from members of the Amazon Vine Program. The analysis not only determined if there is a bias from Vine members but also uncovered data that proves the Vine Program may not be worth the cost for most companies.
+The Amazon Vine Program gives free products to members in exchange for them writing a review about the gifted product. The purpose of this analysis was to examine Amazon product reviews in order to determine if there is a bias for more favorable reviews from members of the Amazon Vine Program. The analysis not only determined if there is a bias from Vine members but also uncovered data that proves the Vine Program may not be worth the cost for many companies.
 
 ### Data Background
 The dataset analyzed was over book reviews and initially contained over 10 million rows of product reviews. After extracting and filtering the data to what was needed for this analysis, the total number of reviews studied was 114,309. 
@@ -37,7 +37,12 @@ product data - "https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_u
 - Percentage of 5-Star Non-Vine Reviews out of Total Non-Vine Reviews - 45.7%
 
 ## Summary
-The results of this analysis show that Amazon Vine Members do not show bias in favorable reviews. Out of all of the 5-Star reviews studied (51,998), only 3.9% of those reviews were from Vine Members. This particular dataset did not have many Vine Member reviews to begin with so the percentage of 5-Star Vine Member Reviews to Total Vine Member reviews was calculated. Out of all the Vine reviews for this dataset, only 40.5% were 5-Star Reviews. Just with this insight, companies may want to question if the Vine Program is truly worth the costs.  Of all the 5-Star reviews analyzed, 96.1% were from Non-Vine reviews. Comparing 5-Star Non-Vine reviews to Total Non-Vine reviews from this dataset, 45.7% were 5-Star reviews. 
+The results of this analysis show that Amazon Vine Members do not show bias in favorable reviews. Out of all of the 5-Star reviews studied (51,998), only 3.9% of those reviews were from Vine Members. This particular dataset did not have many Vine Member reviews to begin with so the percentage of 5-Star Vine Member Reviews to Total Vine Member reviews was calculated. Out of all the Vine reviews for this dataset, only 40.5% were 5-Star Reviews. Just with this insight, companies may want to question if the Vine Program is truly worth the costs.  Of all the 5-Star reviews analyzed, 96.1% were from Non-Vine reviews. Comparing 5-Star Non-Vine reviews to Total Non-Vine reviews from this dataset, 45.7% were 5-Star reviews. In both instances here, Non-Vine reviews trumped Vine reviews. 
+
+### Additional Analysis
+Based on the data studied in this analysis companies may want to explore more in depth analyses in order to seriously consider whether the Vine program is truly cost effective. One analysis companies may want to look into is the effectiveness of "helpful votes" in this dataset and how many of those were from Vine members. The previous analysis done on 5-Star reviews did not breakdown and analyze the "helpful votes" category. The helpfulness of the reviews can carry a heavy weight in the opinion of future customers. If the Vine Members are leaving more substantially helpful reviews than Non-Vine Members, this program could very well be worth the cost. 
+
+Another category that needs further analysis is "verification of purchase". For the analysis, it would be benificial to explore how many people were not verified to have purchased the product and still left a review. If a consumer did not really purchase a product, how can they leave a quality review? In conclusion, to further study the influence of Vine member reviews and whether the Amazon Vine Program is cost effective for companies, the "quality" of product reviews needs to be studied further.
 
 
 
