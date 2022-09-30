@@ -19,6 +19,7 @@ product data - "https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_u
 ## Results
 
 ### Vine Reviews (Paid Reviews)
+
 ![Vines](https://user-images.githubusercontent.com/106348899/193360693-3218928d-7244-4f1a-bf0d-e8f65349c77a.png)
 
 - Total Number of Vine Reviews - 5,012
@@ -27,6 +28,7 @@ product data - "https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_u
 - Percentage of 5-Star Vine Reviews out of Total Vine Reviews - 40.5%
 
 ### Non-Vine Reviews (Unpaid Reviews)
+
 ![Non-Vines](https://user-images.githubusercontent.com/106348899/193360866-d72f2391-0f36-43dd-b65c-316a6e463c4f.png)
 
 - Total Number of Non-Vine Reviews - 109,297
@@ -35,3 +37,7 @@ product data - "https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_u
 - Percentage of 5-Star Non-Vine Reviews out of Total Non-Vine Reviews - 45.7%
 
 ## Summary
+The results of this analysis show that Amazon Vine Members do not show bias in favorable reviews. Out of all of the 5-Star reviews studied (51,998), only 3.9% of those reviews were from Vine Members. This particular dataset did not have many Vine Member reviews to begin with so the percentage of 5-Star Vine Member Reviews to Total Vine Member reviews was calculated. 
+
+
+
